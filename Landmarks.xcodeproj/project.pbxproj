@@ -38,6 +38,7 @@
 		FC655D5F28FD435E00C1B4AB /* ProfileHost.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC655D5E28FD435E00C1B4AB /* ProfileHost.swift */; };
 		FC655D6328FD4B5B00C1B4AB /* ProfileSummary.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC655D6228FD4B5B00C1B4AB /* ProfileSummary.swift */; };
 		FC655D6528FE3FA200C1B4AB /* HikeBadge.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC655D6428FE3FA200C1B4AB /* HikeBadge.swift */; };
+		FCD18C6328FE737700F36E02 /* ProfileEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCD18C6228FE737700F36E02 /* ProfileEditor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -73,6 +74,7 @@
 		FC655D5E28FD435E00C1B4AB /* ProfileHost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHost.swift; sourceTree = "<group>"; };
 		FC655D6228FD4B5B00C1B4AB /* ProfileSummary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileSummary.swift; sourceTree = "<group>"; };
 		FC655D6428FE3FA200C1B4AB /* HikeBadge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeBadge.swift; sourceTree = "<group>"; };
+		FCD18C6228FE737700F36E02 /* ProfileEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileEditor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -216,6 +218,7 @@
 			children = (
 				FC655D5E28FD435E00C1B4AB /* ProfileHost.swift */,
 				FC655D6228FD4B5B00C1B4AB /* ProfileSummary.swift */,
+				FCD18C6228FE737700F36E02 /* ProfileEditor.swift */,
 			);
 			path = Profiles;
 			sourceTree = "<group>";
@@ -310,6 +313,7 @@
 				FC655D3528F5483400C1B4AB /* LandmarkList.swift in Sources */,
 				FC655D5328F92A8200C1B4AB /* Hike.swift in Sources */,
 				FC655D3728F5531600C1B4AB /* LandmarkDetail.swift in Sources */,
+				FCD18C6328FE737700F36E02 /* ProfileEditor.swift in Sources */,
 				FC655D3F28F7BA4500C1B4AB /* BadgeBackground.swift in Sources */,
 				FC655D5028F92A2600C1B4AB /* HikeDetail.swift in Sources */,
 				FC655D2128EFCC1000C1B4AB /* CircleImage.swift in Sources */,
